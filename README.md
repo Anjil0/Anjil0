@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js and Node Js**
 
-- 👯 I’m looking to collaborate on **React Js and Node Js**
+- 👯 I’m looking to collaborate on **Node Js**
 
 - 🤝 I’m looking for help with **Node Js**
 
